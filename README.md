@@ -133,7 +133,6 @@ It highlights real-world applications of analytics for retail decision-making an
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 ```markdown
 ![Dashboard Preview](dashboard.png)
