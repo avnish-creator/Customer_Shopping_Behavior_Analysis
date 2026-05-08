@@ -133,6 +133,5 @@ It highlights real-world applications of analytics for retail decision-making an
 
 ## Dashboard Preview
 
+<img width="1278" height="717" alt="dashboard" src="https://github.com/user-attachments/assets/7c647a79-1b81-4e41-8757-716100e0211c" />
 
-```markdown
-<img width="1278" height="717" alt="dashboard" src="https://github.com/user-attachments/assets/d18dc87e-5250-4686-91e7-14615b8bac6f" />
