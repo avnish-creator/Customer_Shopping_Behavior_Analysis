@@ -1,6 +1,3 @@
-<img width="1278" height="717" alt="dashboard" src="https://github.com/user-attachments/assets/d18dc87e-5250-4686-91e7-14615b8bac6f" />
-
-
 # Customer Shopping Behavior Analysis
 
 Customer Shopping Behavior Analysis is an end-to-end retail analytics project designed to uncover meaningful insights from customer purchase data. The project focuses on analyzing shopping behavior, identifying purchasing trends, evaluating category-wise sales performance, and generating actionable insights through interactive dashboard visualizations.
@@ -138,4 +135,4 @@ It highlights real-world applications of analytics for retail decision-making an
 
 
 ```markdown
-![Dashboard Preview](dashboard.png)
+<img width="1278" height="717" alt="dashboard" src="https://github.com/user-attachments/assets/d18dc87e-5250-4686-91e7-14615b8bac6f" />
